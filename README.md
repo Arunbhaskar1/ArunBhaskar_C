@@ -1,2 +1,2 @@
 # ArunBhaskar_C
-C Prosgrams
+C Programs
